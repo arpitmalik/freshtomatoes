@@ -1,2 +1,2 @@
-# freshtomatoes
-Movie Trailer Website
+# freshtomato
+Movie Trailer Project
